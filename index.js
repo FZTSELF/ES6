@@ -115,6 +115,8 @@
 //     length:3
 // }
 // console.log(json);
+// let arr = Array.from(json);
+// console.log(arr);
 
 // let arr=Array.of(3,4,5,6);
 // console.log(arr);
